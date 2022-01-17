@@ -66,6 +66,13 @@
       <td align="center">nickname</td>
       <td align="center">nickname</td>
    </tr>
+   <tr>
+      <td align="center">ESFJ</td>
+      <td align="center">ENTP</td>
+      <td align="center">INFJ</td>
+      <td align="center">ENFP</td>
+      <td align="center">ESFJ</td>
+   </tr>
 </table>
 
 ---
