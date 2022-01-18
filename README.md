@@ -55,7 +55,7 @@
       </td>
       <td align="center">
          <a href="https://github.com/">
-            <img height="120px" weight="120px" src="./images/"/>
+            <img height="120px" weight="120px" src="./images/jwh.jpg"/>
          </a>
       </td>
    </tr>
