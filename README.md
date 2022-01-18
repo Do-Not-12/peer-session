@@ -63,7 +63,7 @@
       <td align="center">폴라</td>
       <td align="center">피터</td>
       <td align="center">nickname</td>
-      <td align="center">nickname</td>
+      <td align="center">렉사</td>
       <td align="center">nickname</td>
    </tr>
    <tr>
