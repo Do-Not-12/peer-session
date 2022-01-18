@@ -39,8 +39,8 @@
          </a>
       </td>
       <td align="center">
-         <a href="https://github.com/">
-            <img height="120px" weight="120px" src="./images/"/>
+         <a href="https://github.com/qwon135">
+            <img height="120px" weight="120px" src="./images/peter.jpg"/>
          </a>
       </td>
       <td align="center">
