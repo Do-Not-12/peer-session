@@ -54,7 +54,7 @@
          </a>
       </td>
       <td align="center">
-         <a href="https://github.com/">
+         <a href="https://github.com/wh4044">
             <img height="120px" weight="120px" src="./images/jwh.jpg"/>
          </a>
       </td>
@@ -129,7 +129,7 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |1.17 - 1.21|1.24 - 1.28|2.3 - 2.4|2.7 - 2.11|2.14 - 2.18|2.21 - 2.25|2.28 - 3.4|
 |Python Basics for AI <br> AI Math|Pytorch Basics for AI|Data Viz|Deep Learning Basics|AI 서비스 개발 기초|Image Classification|Image Classificationa|
-|폴라|피터|피터|조예진|이서희|진완혁|폴라|
+|폴라|피터|피터|조예진|이서희|도리토스|폴라|
 
 ### 역할
 
