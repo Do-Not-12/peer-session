@@ -64,7 +64,7 @@
       <td align="center">피터</td>
       <td align="center">써리</td>
       <td align="center">렉사</td>
-      <td align="center">nickname</td>
+      <td align="center">도리토스</td>
    </tr>
    <tr>
       <td align="center">ESFJ</td>
