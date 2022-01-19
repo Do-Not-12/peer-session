@@ -50,12 +50,12 @@
       </td>
       <td align="center">
          <a href="https://github.com/">
-            <img height="120px" weight="120px" src="./images/"/>
+            <img height="120px" weight="120px" src="./images/lexa.png"/>
          </a>
       </td>
       <td align="center">
-         <a href="https://github.com/">
-            <img height="120px" weight="120px" src="./images/jwh.jpg"/>
+         <a href="https://github.com/wh4044">
+            <img height="120px" weight="120px" src="./images/doritos.png"/>
          </a>
       </td>
    </tr>
@@ -88,13 +88,12 @@
 
 ### 역할분담
 
+- 역할은 매일 데일리 스크럼때 결정
 - 당일 범위 강의 리뷰 (2명)
    - 다른 팀원들은 이해가 안되는 부분을 체크하고 update
    - 복습담당 강의를 분할해서 정리
-- 레퍼런스 Review (1명)
+- 레퍼런스 Review (2명)
    - 당일 범위 레퍼런스 중 흥미롭거나 도움이 될 법한 레퍼런스 정리
-- 질의응답을 위해 당일 범위의 질문 정리 (1명)
-   - 다른 팀원들도 추가로 질문 덧붙이기
 - 코드 리뷰
    - 모더레이터가 전날 과제의 코드를 발표
    - 팀원들이 피드백
@@ -103,6 +102,7 @@
 
 - 예제가 부족하다고 생각하는 부분 있다면 추가적인 예제 제작
 - 코드 피드백을 위해 당일 강의에 해당하는 과제 진행 및 제출
+- 당일 강의 내용 질문 정리하기
 - 역할분담에 맞춰서 진행
 
 ### 그라운드 룰
@@ -129,7 +129,7 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |1.17 - 1.21|1.24 - 1.28|2.3 - 2.4|2.7 - 2.11|2.14 - 2.18|2.21 - 2.25|2.28 - 3.4|
 |Python Basics for AI <br> AI Math|Pytorch Basics for AI|Data Viz|Deep Learning Basics|AI 서비스 개발 기초|Image Classification|Image Classificationa|
-|폴라|피터|피터|조예진|이서희|진완혁|폴라|
+|폴라|피터|피터|렉사|써리|도리토스|폴라|
 
 ### 역할
 
