@@ -4,7 +4,7 @@
 
 #### 1. Introduction to PyTorch
 - PyTorch : 연구에서 사용, 상승세, 그래프 나중에 정의
-0 TensorFlow는 현업사용, 하락세, 그래프 정의 먼저
+- TensorFlo : 현업사용, 하락세, 그래프 정의 먼저
 - __가장 큰 차이 !__ : PyTorch는 GPU를 tensor에 올려준다.
 
 #### reference
@@ -18,13 +18,13 @@
 - AutoGrad : PyTorch 핵심인 __자동 미분__
 
 #### reference
-- pytorch 한국 사용자 모임이 있음ㄴ
+- pytorch 한국 사용자 모임이 있다.
 - Autograd 튜토리얼 : https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html
 - Tensor와  Autograd 튜토리얼 : https://pytorch.org/tutorials/beginner/examples_autograd/two_layer_net_autograd.html
 - lr을 지정해줘서 반복문으로 가중치를 빼주던 과정을 loss.backward()로 줄일 수 있다.
 
 #### 3. PyTorch 프로젝트 구조 이해하기
-- train.py에서 ConfigParser에 의해 팩토리패턴으로 불러온 arg로 객체 생성 $\rightarrow$ config
+- train.py에서 ConfigParser에 의해 팩토리패턴으로 불러온 arg로 객체 생성 (config)
 - parser_config.py 에서 read_json은 Data를 dict 형태로 변환
 - main에서 logging을 train으로 설정
 - main에서 data_loader : init_obj을 사용해 object에서 config파일 불러옴, module_data로 mnlist dataloader 모듈 불러옴
