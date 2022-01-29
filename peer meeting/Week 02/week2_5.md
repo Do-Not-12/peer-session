@@ -6,12 +6,12 @@
 - 심화 포스팅 : 수업을 다 듣고 과제를 다한 금요일에 각자 정한 심화 주제로 포스팅을 하고 발표를 하는 시간
 
 - 심화 포스팅 주제
-    1. 폴라 : torch.nn.Module 뜯어보기
-    2. 써리 : p-value
+    1. 폴라 : [torch.nn.Module 뜯어보기](https://cow-coding.github.io/posts/module/)
+    2. 써리 : [p-value](https://westshine-data-analysis.tistory.com/133)
     3. 렉사 : PCA
-    4. 도리토스 : Backpropagation
+    4. 도리토스 : [Backpropagation](https://blog.naver.com/axe_knife/222633639093)
     5. 피터 : Overview of PyTorch Autograd Engine
-
+    
 
 ## torch.nn.Module 뜯어보기
 - init : 거의 attribute로 구성
@@ -25,6 +25,10 @@
 - call : 객체가 호출 될 때 수행되는 magic method 함수. 단순 객체가 call되도 forward가 실행. 
 
 ## Backpropagation
+- 딥러닝은 위 X 값을 입력층으로 받아서 은닉층과 출력층을 거쳐 출력된 값(A(3))이 원하는 값과 가까워 질 때(E가 작을 때) 까지 학습을 한다.
+- 각각의 층은 교차되는 가중치 값으로 연결되어 있는데 이 가중치(weight, W)를 조금씩 수정해 가면서 최종 출력값에 영향을 주어 오차를 줄여나간다. 
+- 이 때 이 가중치를 수정할 때 역전파(backpropagation) 방법을 사용한다.
+- 맨 마지막 층의 값으로부터 출발하여 차례차례 역으로 원하는 곳 까지의 결과를 얻어내는 과정이기 때문에 이를 '역전파(backpropagation)'이라고 부른다
 
 ## Overview of PyTorch Autograd Engine
 - 역전파는 수학적으로 야코비안 행렬로 표현할 수 있다.
