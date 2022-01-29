@@ -10,7 +10,7 @@
     2. 써리 : [p-value](https://westshine-data-analysis.tistory.com/133)
     3. 렉사 : PCA
     4. 도리토스 : [Backpropagation](https://blog.naver.com/axe_knife/222633639093)
-    5. 피터 : Overview of PyTorch Autograd Engine
+    5. 피터 : [Overview of PyTorch Autograd Engine](https://github.com/Do-Not-12/peer-session/blob/main/peer%20meeting/Week%2002/PyTorch%20Autograd.ipynb)
     
 
 ## torch.nn.Module 뜯어보기
