@@ -40,12 +40,12 @@
 
 ### 심화포스팅
 
-#### Magic Method (발표자 : 피터)
+#### [Magic Method (발표자 : 피터)](https://github.com/qwon135/Boostcamp-ai-tech/blob/main/%EC%8B%AC%ED%99%94%ED%8F%AC%EC%8A%A4%ED%8C%85/Python%20UnderScore.ipynb)
 - Built-in 함수들이 처리할 연산을 정의함으로써, 마법같다고 하여 매직 메소드라한다.
 - `__new__`와 `__init__`의 차이
 - 그 밖에 객체 생성과 표현, 속성관리, 연산등 여러 magic method들이 있다.
 
-#### Latex (발표자 : 폴라)
+#### [Latex (발표자 : 폴라)](https://cow-coding.github.io/posts/githubblog/)
 - MathJax Setting을 javascript로 적용
 - basic 
     - _{}, ^{} 밑첨자, 윗첨자(중괄호 쓰는 것을 추천)
@@ -53,19 +53,19 @@
 - Vector, Matrix : begin으로 감싼다
 - 간격 : quad 사용이 편하다
 
-#### Color(발표자 : 렉사)
+#### [Color(발표자 : 렉사)](https://sweetdev.tistory.com/1086)
 - 사람의 눈에는 3개의 망막세포가 있어서 색을 인식한다(rgb)
 - 하지만 rgb에서 보이는 영역은 좁다
 - 그래서 cmik라는 체계를 만들어냈다
 
-#### PDP : partial dependece plot(발표자 : 써리)
+#### [PDP : partial dependece plot(발표자 : 써리)](https://westshine-data-analysis.tistory.com/134)
 - 기본적으로 tree 기반 모델은 입력과 출력의 관계를 알기힘들다
 - PDP는 이런 모델의 입력과 출력의 관계를 볼 수 있게 해주는 시각화 그래프
 - marginalizing(marginal effect)을 해준다
 - 장점 : 직관적, 구현이 쉽다
 - 단점 : 변수의 개수가 한정(2개까지), 해석오류의 여지, 다중공선성 문제가 없어야함
 
-#### 추천시스템 (발표자 : 도리토스)
+#### [추천시스템 (발표자 : 도리토스)](https://blog.naver.com/axe_knife/222639118719)
 - 추천시스템 : 아이템을 바탕으로 어떤 추천을 할지 총괄한다
 - Collaborative Filtering(협업 필터링)(가장 많이 사용)
     - 비슷한 성향이나 취향을 갖는 유저가 좋아한 아이템을 추천
