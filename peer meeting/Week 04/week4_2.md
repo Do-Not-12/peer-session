@@ -1,4 +1,4 @@
-# Week4 - Day1
+# Week4 - Day2
 
 ## Morning Session
 - 도리토스: Batch Normalization
