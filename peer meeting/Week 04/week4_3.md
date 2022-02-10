@@ -26,5 +26,5 @@
 ## 심화 포스팅 주제
   - 피터 ) 튜토리얼
   - 폴라 ) AlexNet
-  - 도리토스 ) 
+  - 도리토스 ) About Batch Normalization
   - 써리 ) c-GAN
