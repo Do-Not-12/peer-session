@@ -20,4 +20,5 @@
 #### DCGAN
 * []()
 
-#### 
+#### Batch Normalization
+* [꼼꼼한 딥러닝 논문 리뷰와 코드 실습](https://www.youtube.com/watch?v=58fuWVu5DVU)
