@@ -20,5 +20,6 @@
 #### DCGAN
 * []()
 
-#### Batch Normalization
-* [꼼꼼한 딥러닝 논문 리뷰와 코드 실습](https://www.youtube.com/watch?v=58fuWVu5DVU)
+#### About Batch Normalization
+* [배치정규화](https://blog.naver.com/axe_knife/222646352004)
+* [Github](https://github.com/wh4044/Boostcamp_AI_Tech/blob/main/%EC%8B%AC%ED%99%94%ED%8F%AC%EC%8A%A4%ED%8C%85/About%20Batch%20Normalization_%EC%A7%84%EC%99%84%ED%98%81.ipynb)
