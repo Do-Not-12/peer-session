@@ -1,4 +1,4 @@
-﻿# Week 5- Day1
+﻿# Week 5- Day3
 ## Today Peer session
 각자 부족한 부분, 더 공부해보고 싶은 부분에 대한 학습 진행
 1. 써리
