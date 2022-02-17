@@ -1,4 +1,4 @@
-﻿# Week 5- Day1
+﻿# Week 5- Day2
 ## Today Peer session
 1. 서비스향 AI모델 개발하기 (발표자: 폴라)
 - 전반적인 강의 내용 리뷰 진행
