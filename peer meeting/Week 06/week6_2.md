@@ -49,7 +49,7 @@ Today's PeerSession
 - Case 3. Convolutional base를 freeze, classifier만 새로 학습시키기
 
 ## Classifier
-1. Fully-conncted layers
+1. Fully-connected layers
 2. Global average pooling
 3. Linear support vector machines
 
